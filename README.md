@@ -4,3 +4,6 @@ This week I learned a little bit about coding, but I am still stuck. I don't rem
 
 ## week of 11/30/2020-12/4/2020
 I did not do much this week.  though, last week I finished the first assignment. Right now, I'm stuck on how to make the blinking stop or be conditional. 
+
+## week of 12/8/2020-12/11/2020
+I tried to keep working on the limited blink coding but I just don't know how to get it to stop blinking. I am trying though. 
