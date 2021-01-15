@@ -7,3 +7,6 @@ I did not do much this week.  though, last week I finished the first assignment.
 
 ## week of 12/8/2020-12/11/2020
 I tried to keep working on the limited blink coding but I just don't know how to get it to stop blinking. I am trying though. 
+
+## WEEK OF 1/15/2021
+i worked on the hello functions but it kinda is just a weird block of text. I'm trying thouhg.
