@@ -10,3 +10,6 @@ I tried to keep working on the limited blink coding but I just don't know how to
 
 ## WEEK OF 1/15/2021
 i worked on the hello functions but it kinda is just a weird block of text. I'm trying thouhg.
+
+## week of 1/22/2021
+I tried working on stuff this week. Got put with people for a group project. hope it works out. 
