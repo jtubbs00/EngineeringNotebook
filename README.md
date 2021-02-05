@@ -13,3 +13,6 @@ i worked on the hello functions but it kinda is just a weird block of text. I'm 
 
 ## week of 1/22/2021
 I tried working on stuff this week. Got put with people for a group project. hope it works out. 
+
+## week of 2/1/2021
+Have tried working on Hello functions. confused by the terms.
