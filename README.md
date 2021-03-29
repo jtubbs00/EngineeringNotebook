@@ -16,3 +16,6 @@ I tried working on stuff this week. Got put with people for a group project. hop
 
 ## week of 2/1/2021
 Have tried working on Hello functions. confused by the terms.
+
+## before spring break
+So, I have finished hello functions with the help of Mr. Dierolf and am now going to try to do the rest of them. I need to remember that googling does work. 
